@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi, I'm Raphael Ramos 👋
 
-<!--
-**raphaelramossilva/raphaelramossilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
+
+Developer since 2023, working mainly in JavaScript projects, using
+
+- React.js (Next.js)
+- Node.js (Express, Nest.js)
+- React Native
+
+## My Course
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
